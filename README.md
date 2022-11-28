@@ -2,7 +2,10 @@
 
 A new Flutter project.
 
+
 ## Getting Started
+
+<img src="output.png" alt="output" width="200"/>
 
 This project is a starting point for a Flutter application.
 
